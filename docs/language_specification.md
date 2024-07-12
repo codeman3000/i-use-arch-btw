@@ -39,7 +39,7 @@ keywords:
 | `the`    | If the value pointed to by the data pointer is zero, then continue execution of the program after the matching `way` keyword.     |
 | `way`    | If the value pointed to by the data pointer is not zero, then continue execution of the program after the matching `the` keyword. |
 | `gentoo` | Call the debugging event handler.                                                                                                 |
-
+| `;`      | Comment the code. Does not get compiled                                                                                           |
 ## Whitespace
 
 Keywords are separated by whitespace, defined as a sequence of one or more
